@@ -1,0 +1,51 @@
+﻿  main.cpp
+C:\Users\Muhammad Bilal\Documents\TicTacToeProject\SFMLLinkTest\SFMLLinkTest\TicTacToe\TicTacToe\main.cpp(222,15): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Muhammad Bilal\Documents\TicTacToeProject\SFMLLinkTest\SFMLLinkTest\TicTacToe\TicTacToe\main.cpp(291,78): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Muhammad Bilal\Documents\TicTacToeProject\SFMLLinkTest\SFMLLinkTest\TicTacToe\TicTacToe\main.cpp(291,78): warning C4244:         with
+C:\Users\Muhammad Bilal\Documents\TicTacToeProject\SFMLLinkTest\SFMLLinkTest\TicTacToe\TicTacToe\main.cpp(291,78): warning C4244:         [
+C:\Users\Muhammad Bilal\Documents\TicTacToeProject\SFMLLinkTest\SFMLLinkTest\TicTacToe\TicTacToe\main.cpp(291,78): warning C4244:             T=float
+C:\Users\Muhammad Bilal\Documents\TicTacToeProject\SFMLLinkTest\SFMLLinkTest\TicTacToe\TicTacToe\main.cpp(291,78): warning C4244:         ]
+C:\Users\Muhammad Bilal\Documents\TicTacToeProject\SFMLLinkTest\SFMLLinkTest\TicTacToe\TicTacToe\main.cpp(291,57): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Muhammad Bilal\Documents\TicTacToeProject\SFMLLinkTest\SFMLLinkTest\TicTacToe\TicTacToe\main.cpp(291,57): warning C4244:         with
+C:\Users\Muhammad Bilal\Documents\TicTacToeProject\SFMLLinkTest\SFMLLinkTest\TicTacToe\TicTacToe\main.cpp(291,57): warning C4244:         [
+C:\Users\Muhammad Bilal\Documents\TicTacToeProject\SFMLLinkTest\SFMLLinkTest\TicTacToe\TicTacToe\main.cpp(291,57): warning C4244:             T=float
+C:\Users\Muhammad Bilal\Documents\TicTacToeProject\SFMLLinkTest\SFMLLinkTest\TicTacToe\TicTacToe\main.cpp(291,57): warning C4244:         ]
+C:\Users\Muhammad Bilal\Documents\TicTacToeProject\SFMLLinkTest\SFMLLinkTest\TicTacToe\TicTacToe\main.cpp(784,92): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Muhammad Bilal\Documents\TicTacToeProject\SFMLLinkTest\SFMLLinkTest\TicTacToe\TicTacToe\main.cpp(784,92): warning C4244:         with
+C:\Users\Muhammad Bilal\Documents\TicTacToeProject\SFMLLinkTest\SFMLLinkTest\TicTacToe\TicTacToe\main.cpp(784,92): warning C4244:         [
+C:\Users\Muhammad Bilal\Documents\TicTacToeProject\SFMLLinkTest\SFMLLinkTest\TicTacToe\TicTacToe\main.cpp(784,92): warning C4244:             T=float
+C:\Users\Muhammad Bilal\Documents\TicTacToeProject\SFMLLinkTest\SFMLLinkTest\TicTacToe\TicTacToe\main.cpp(784,92): warning C4244:         ]
+C:\Users\Muhammad Bilal\Documents\TicTacToeProject\SFMLLinkTest\SFMLLinkTest\TicTacToe\TicTacToe\main.cpp(784,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Muhammad Bilal\Documents\TicTacToeProject\SFMLLinkTest\SFMLLinkTest\TicTacToe\TicTacToe\main.cpp(784,64): warning C4244:         with
+C:\Users\Muhammad Bilal\Documents\TicTacToeProject\SFMLLinkTest\SFMLLinkTest\TicTacToe\TicTacToe\main.cpp(784,64): warning C4244:         [
+C:\Users\Muhammad Bilal\Documents\TicTacToeProject\SFMLLinkTest\SFMLLinkTest\TicTacToe\TicTacToe\main.cpp(784,64): warning C4244:             T=float
+C:\Users\Muhammad Bilal\Documents\TicTacToeProject\SFMLLinkTest\SFMLLinkTest\TicTacToe\TicTacToe\main.cpp(784,64): warning C4244:         ]
+C:\Users\Muhammad Bilal\Documents\TicTacToeProject\SFMLLinkTest\SFMLLinkTest\TicTacToe\TicTacToe\main.cpp(859,78): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Muhammad Bilal\Documents\TicTacToeProject\SFMLLinkTest\SFMLLinkTest\TicTacToe\TicTacToe\main.cpp(859,78): warning C4244:         with
+C:\Users\Muhammad Bilal\Documents\TicTacToeProject\SFMLLinkTest\SFMLLinkTest\TicTacToe\TicTacToe\main.cpp(859,78): warning C4244:         [
+C:\Users\Muhammad Bilal\Documents\TicTacToeProject\SFMLLinkTest\SFMLLinkTest\TicTacToe\TicTacToe\main.cpp(859,78): warning C4244:             T=float
+C:\Users\Muhammad Bilal\Documents\TicTacToeProject\SFMLLinkTest\SFMLLinkTest\TicTacToe\TicTacToe\main.cpp(859,78): warning C4244:         ]
+C:\Users\Muhammad Bilal\Documents\TicTacToeProject\SFMLLinkTest\SFMLLinkTest\TicTacToe\TicTacToe\main.cpp(859,57): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Muhammad Bilal\Documents\TicTacToeProject\SFMLLinkTest\SFMLLinkTest\TicTacToe\TicTacToe\main.cpp(859,57): warning C4244:         with
+C:\Users\Muhammad Bilal\Documents\TicTacToeProject\SFMLLinkTest\SFMLLinkTest\TicTacToe\TicTacToe\main.cpp(859,57): warning C4244:         [
+C:\Users\Muhammad Bilal\Documents\TicTacToeProject\SFMLLinkTest\SFMLLinkTest\TicTacToe\TicTacToe\main.cpp(859,57): warning C4244:             T=float
+C:\Users\Muhammad Bilal\Documents\TicTacToeProject\SFMLLinkTest\SFMLLinkTest\TicTacToe\TicTacToe\main.cpp(859,57): warning C4244:         ]
+C:\Users\Muhammad Bilal\Documents\TicTacToeProject\SFMLLinkTest\SFMLLinkTest\TicTacToe\TicTacToe\main.cpp(882,88): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Muhammad Bilal\Documents\TicTacToeProject\SFMLLinkTest\SFMLLinkTest\TicTacToe\TicTacToe\main.cpp(882,88): warning C4244:         with
+C:\Users\Muhammad Bilal\Documents\TicTacToeProject\SFMLLinkTest\SFMLLinkTest\TicTacToe\TicTacToe\main.cpp(882,88): warning C4244:         [
+C:\Users\Muhammad Bilal\Documents\TicTacToeProject\SFMLLinkTest\SFMLLinkTest\TicTacToe\TicTacToe\main.cpp(882,88): warning C4244:             T=int
+C:\Users\Muhammad Bilal\Documents\TicTacToeProject\SFMLLinkTest\SFMLLinkTest\TicTacToe\TicTacToe\main.cpp(882,88): warning C4244:         ]
+C:\Users\Muhammad Bilal\Documents\TicTacToeProject\SFMLLinkTest\SFMLLinkTest\TicTacToe\TicTacToe\main.cpp(882,88): warning C4244:         and
+C:\Users\Muhammad Bilal\Documents\TicTacToeProject\SFMLLinkTest\SFMLLinkTest\TicTacToe\TicTacToe\main.cpp(882,88): warning C4244:         [
+C:\Users\Muhammad Bilal\Documents\TicTacToeProject\SFMLLinkTest\SFMLLinkTest\TicTacToe\TicTacToe\main.cpp(882,88): warning C4244:             T=float
+C:\Users\Muhammad Bilal\Documents\TicTacToeProject\SFMLLinkTest\SFMLLinkTest\TicTacToe\TicTacToe\main.cpp(882,88): warning C4244:         ]
+C:\Users\Muhammad Bilal\Documents\TicTacToeProject\SFMLLinkTest\SFMLLinkTest\TicTacToe\TicTacToe\main.cpp(882,58): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Muhammad Bilal\Documents\TicTacToeProject\SFMLLinkTest\SFMLLinkTest\TicTacToe\TicTacToe\main.cpp(882,58): warning C4244:         with
+C:\Users\Muhammad Bilal\Documents\TicTacToeProject\SFMLLinkTest\SFMLLinkTest\TicTacToe\TicTacToe\main.cpp(882,58): warning C4244:         [
+C:\Users\Muhammad Bilal\Documents\TicTacToeProject\SFMLLinkTest\SFMLLinkTest\TicTacToe\TicTacToe\main.cpp(882,58): warning C4244:             T=int
+C:\Users\Muhammad Bilal\Documents\TicTacToeProject\SFMLLinkTest\SFMLLinkTest\TicTacToe\TicTacToe\main.cpp(882,58): warning C4244:         ]
+C:\Users\Muhammad Bilal\Documents\TicTacToeProject\SFMLLinkTest\SFMLLinkTest\TicTacToe\TicTacToe\main.cpp(882,58): warning C4244:         and
+C:\Users\Muhammad Bilal\Documents\TicTacToeProject\SFMLLinkTest\SFMLLinkTest\TicTacToe\TicTacToe\main.cpp(882,58): warning C4244:         [
+C:\Users\Muhammad Bilal\Documents\TicTacToeProject\SFMLLinkTest\SFMLLinkTest\TicTacToe\TicTacToe\main.cpp(882,58): warning C4244:             T=float
+C:\Users\Muhammad Bilal\Documents\TicTacToeProject\SFMLLinkTest\SFMLLinkTest\TicTacToe\TicTacToe\main.cpp(882,58): warning C4244:         ]
+  TicTacToe.vcxproj -> C:\Users\Muhammad Bilal\Documents\TicTacToeProject\SFMLLinkTest\SFMLLinkTest\TicTacToe\Debug\TicTacToe.exe
