@@ -84,11 +84,6 @@ To distribute the game:
   - Medium: 4x4.
   - Hard: 6x6.
 - After each game, players can choose to replay or exit.
-
-### Controls
-- Use the mouse to select grid positions.
-- Follow on-screen prompts for navigating through menus.
-
 ---
 
 Enjoy the game and happy playing!
